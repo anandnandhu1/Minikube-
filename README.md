@@ -23,4 +23,5 @@ chmod +x kubectl
 sudo mv kubectl /usr/local/bin/
 
 kubectl version --client
+
 kubectl get nodes
